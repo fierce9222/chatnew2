@@ -14,7 +14,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/message_item"
             android:text="test"
-            android:textSize="24dp"/>
+            android:textSize="20dp"/>
     </androidx.cardview.widget.CardView>
 
 
